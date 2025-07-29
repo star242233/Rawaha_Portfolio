@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Rawaha_Portfolio/static/css/main.b98901ff.css",
-    "main.js": "/Rawaha_Portfolio/static/js/main.c26c3aa9.js",
+    "main.js": "/Rawaha_Portfolio/static/js/main.9dd588fa.js",
     "index.html": "/Rawaha_Portfolio/index.html",
     "main.b98901ff.css.map": "/Rawaha_Portfolio/static/css/main.b98901ff.css.map",
-    "main.c26c3aa9.js.map": "/Rawaha_Portfolio/static/js/main.c26c3aa9.js.map"
+    "main.9dd588fa.js.map": "/Rawaha_Portfolio/static/js/main.9dd588fa.js.map"
   },
   "entrypoints": [
     "static/css/main.b98901ff.css",
-    "static/js/main.c26c3aa9.js"
+    "static/js/main.9dd588fa.js"
   ]
 }
