@@ -43,7 +43,7 @@ const Sidebar = () => {
           if (debounceTimeout) clearTimeout(debounceTimeout);
           setDebounceTimeout(
             setTimeout(() => {
-              document.title = "Dr Aditya | " + sectionLabel; // Change the document title
+              document.title = "Rawaha Rasheed | " + sectionLabel; // Change the document title
               window.history.pushState(null, "", `#${sectionId}`); // Change the URL hash
             }, 200) // 200ms debounce
           );
