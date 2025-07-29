@@ -1,0 +1,43 @@
+{
+  "name": "Rawaha Rasheed",
+  "email": "your Email",
+  "phone": "your phone number",
+  "subtitle": "Turning Ideas Into Iconic Brand Marks",
+  "greeting": "👋 Hello!",
+  "description": "I am a professional in designing logos and brand identities with more than five years of freelancing under my belt, having experience with a wide variety of clients, both startups and family-run establishments and large-scale brands. I believe that I am a pressure person, and I excel on tight deadlines as well as complicated projects, without providing anything generic. My logo design philosophy centres on boldly memorable brand identities, attention-getting, telling your unique story, and mixing creative imagination with strategy and market research to make your brand stand out. I am not into cookie-cutter designs that you can forget tomorrow; your brand is not that type of brand. With a successful history of working with new ventures to industry heavyweights, I am a focused, detail-orientated, reliable person and driven by challenging work. I will also ensure that I am providing quality services (creative) which will put some energy and originality in each project and make your brand stand out in the competitive world.",
+  "education": "I've had worked mostly on Fiverr and other freelancing platforms, but before joining Fiverr, I worked at a local magazine publication as a part-time editor & designer, where I have designed many Logos and created Brand Identities for customers and startups.",
+  "beliefAndGoal": "I believe AI can transform patient experiences. I aim to create <a href=\"#projects\">advancements</a> that improve diagnostic accuracy and treatment efficiency. 🚀",
+  "socialLinks": {
+    "github": {
+      "url": "https://github.com/aditya30051993",
+      "title": "GitHub",
+      "strong": "Explore ",
+      "description": "my projects and code on GitHub.",
+      "image": "https://static.wikia.nocookie.net/windows/images/0/01/GitHub_logo_2013.png"
+    },
+    "linkedin": {
+      "url": "https://www.linkedin.com/in/adi0593/",
+      "title": "LinkedIn",
+      "strong": "Join ",
+      "description": "me on LinkedIn for work connections.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/640px-LinkedIn_Logo.svg.png"
+    },
+    "medium": {
+      "url": "https://medium.com/@adi93",
+      "title": "Medium",
+      "strong": "Read ",
+      "description": "on Medium where I write about tech.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Medium_%28website%29_logo.svg/640px-Medium_%28website%29_logo.svg.png"
+    },
+    "upwork": {
+      "url": "https://www.upwork.com/freelancers/~01c2bfda01cedbb871",
+      "title": "Upwork",
+      "strong": "Find ",
+      "description": "me on Upwork, where I offer my skills.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Upwork-logo.svg/640px-Upwork-logo.svg.png"
+    }
+  },
+  "logo": "/my-portfolio/logo512.png",
+  "resume": "/my-portfolio/resume.pdf",
+  "copyright": "© 2024 Dr. Aditya Kumar Gupta. All Rights Reserved."
+}
